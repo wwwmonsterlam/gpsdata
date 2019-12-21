@@ -2,8 +2,8 @@
 
 * Project goal
     - Offers back end service to collect user's positioning data via RESTful API. The following are two concorete functionalities of this project:
-    1. create users
-    2. store users' positoning data
+        1. create users
+        2. store users' positoning data
 
 * Fameworks/techniques
     - Java
