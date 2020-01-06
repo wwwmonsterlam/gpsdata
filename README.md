@@ -1,9 +1,7 @@
 # gpsdata
 
 * Project goal
-    - Offers back end service to collect user's positioning data via RESTful API. The following are two concorete functionalities of this project:
-        1. create users
-        2. store users' positoning data
+    - Offer RESTful API for the CRUD operations of user positioning data
 
 * Fameworks/techniques
     - Java
